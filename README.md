@@ -10,14 +10,18 @@ This repository contains lab work and mini projects completed as part of the **D
 - `Colormap.ipynb`: Color map demonstrations using Matplotlib.
 - `DATA_VISUALIZATION01.ipynb`: Final lab submission for course evaluation.
 - `DAV_MINI_PROJECT.pdf`: Final mini project for DAV course.
+- `Z_score.ipynb` :Standardization using Z-score.
+- `Data_CleaningL-03.ipynb`: Data cleaning using Python.
+- `M5_1_Clustering_Hiatogram_HeatMap.ipynb`: Cluster analysis with heatmaps.        
+- `M4_4_2_Market_Basket.ipynb`: Association rule mining using Market Basket.     
+- `text_visualization.ipynb`: Basic text-based data visualization.          
 
-## 💡 Tools Used
+🧰 Tools & Technologies
 
-- Python 3
-- Google Colab
-- Pandas
-- Matplotlib
-- PDF reports for submission
+- **Languages**: Python
+- **Libraries**: Numpy, Pandas, Matplotlib, Seaborn
+- **Platforms**: Google Colab, Jupyter
+- **Visualization**: PDFs, and PPTs
 
 ## 📌 Notes
 
@@ -25,4 +29,4 @@ These are academic projects and lab submissions. Feel free to explore and adapt 
 
 ---
 
-> 📂 All files were prepared by **Sushmitha** during her coursework in 2024-2025.
+> 📂 All files were prepared by **Sushmitha V M** during the Data Analytics & Visualization course (2024–2025)
